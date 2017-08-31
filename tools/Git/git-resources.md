@@ -1,5 +1,5 @@
 # Git参考资料
----
+ 
 
 1. [看完就会用的GIT操作图解分析](http://blog.yubangweb.com/kan-wan-jiu-hui-yong-de-gitcao-zuo-tu-jie-fen-xi/)
 2. [Git实战详解](https://segmentfault.com/a/1190000005370037)
@@ -12,5 +12,5 @@
 9. [SegmentFault 技术周刊 Vol.27 - Git 学习宝典：程序员走江湖必备](https://segmentfault.com/a/1190000009893041) (上面所有资料的整理文章)
 
 
----
+ 
 

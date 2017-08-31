@@ -109,8 +109,8 @@ Note:
 #### 参考资料
 1. [关于Android的.so文件你所需要知道的](http://www.open-open.com/lib/view/open1440421271716.html)
 2. [Android中怎么破解游戏之修改金币数](http://blog.csdn.net/jiangwei0910410003/article/details/25805453)(还未成功)
-3. [Android逆向之旅---SO(ELF)文件格式详解](http://blog.csdn.net/jiangwei0910410003/article/details/49336613/)
-3. [Android逆向之旅---Android应用的汉化功能(修改SO中的字符串内容)](http://blog.csdn.net/jiangwei0910410003/article/details/49361281)
+3. [Android逆向之旅 SO(ELF)文件格式详解](http://blog.csdn.net/jiangwei0910410003/article/details/49336613/)
+3. [Android逆向之旅 Android应用的汉化功能(修改SO中的字符串内容)](http://blog.csdn.net/jiangwei0910410003/article/details/49361281)
 
 
 ### Android jni开发

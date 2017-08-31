@@ -1,5 +1,5 @@
 # Android热修复方案
----
+ 
 
 ## 技术方案
 
@@ -64,7 +64,7 @@
 #### Tinker给出的对比图
 
 | 对比项     | Tinker | QZone | AndFix | Robust |
------
+ --
 | 类替换     | yes    | yes   | no     | no     |
 | So替换     | yes    | no    | no     | no     |
 | 资源替换   | yes    | yes   | no     | no     |
