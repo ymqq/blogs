@@ -41,7 +41,7 @@
 
 ## 期望工作
 
-- HTML5、Node.js、Android开发相关
+- HTML5、Node.js、Android(Java/Kotlin)开发相关
 - 全职
 - 福州
 - 13K
@@ -84,6 +84,7 @@
 12. 基于蓝牙设备SDK统一封装通用的蓝牙读卡器识别身份证组件模块
 13. 自定义相机实现头像框与身份证框
 14. 使用过Cordova与JsBridge框架开发混搭APP
+15. 使用Kotlin开发过简单的APP
 
 #### Node.js
 1. 熟悉Node.js基础开发，搭配Express、MongoDB框架，能够完成基础服务端功能开发
